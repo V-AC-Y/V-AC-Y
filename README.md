@@ -1,21 +1,23 @@
 # Hi 👋, I'm Venus Yan
 
-I'm pursuing a B.S. in Computer Science and an intended M.S. in AI Engineering at WashU, with a completed B.S. in Math from Juniata College. 
+I'm pursuing a B.S. in Computer Science and an intended M.S. in AI Engineering at WashU, with a completed B.S. in Math & Computer Science from Juniata College. 
 
-### 📄 Resume & CV
+### 📄 Resume & CV:
 
 - **[Industry Resume](documents/Venus_Yan_Resume.pdf)** — Software Engineering & Machine Learning Internships
 - **[Research CV](documents/Venus_Yan_CV.pdf)** — AI/ML Research & Research Assistant Opportunities
 
-### My Interest:
+### 🔍 My Research Interest:
 
 - Machine Learning
 - Multi-Agent Systems
+- Efficient AI
+- Knowledge Distillation
 
-### I am open to:
+### 🤝 I am open to:
 
 - any collaboration work,
-- machine learning projects(development or research),
+- machine learning projects (development or research),
 - research program and
 - interships accepting OPT candidates in US.
 

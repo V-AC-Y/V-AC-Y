@@ -2,6 +2,11 @@
 
 I'm pursuing a B.S. in Computer Science and an intended M.S. in AI Engineering at WashU, with a completed B.S. in Math from Juniata College. 
 
+### 📄 Resume & CV
+
+- **[Industry Resume](documents/Venus_Yan_Resume.pdf)** — Software Engineering & Machine Learning Internships
+- **[Research CV](documents/Venus_Yan_CV.pdf)** — AI/ML Research & Research Assistant Opportunities
+
 ### My Interest:
 
 - Machine Learning
